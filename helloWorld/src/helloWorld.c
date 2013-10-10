@@ -2,7 +2,7 @@
  ============================================================================
  Name        : helloWorld.c
  Author      : roney
- Version     : 0.2a
+ Version     : 0.2b
  Notice      : agora atualizado via svn
  Copyright   : just a test
  Description : Hello World in C, Ansi-style
