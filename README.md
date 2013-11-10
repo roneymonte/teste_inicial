@@ -2,6 +2,7 @@ teste_inicial
 =============
 
 GitHub Octopus Head
+<hr>
 <img src="cabecas.png" width="50%" height"50%">
 
-teste inicial para exemplificar o repositorio
+first repository test
